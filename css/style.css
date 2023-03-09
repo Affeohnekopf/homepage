@@ -1,0 +1,166 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  font-size: 5.625rem;
+  margin-top: 50px;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  text-align: center;
+  padding-top: 70px;
+  color: black;
+}
+
+.heading {
+  font-family: 'Dancing Script', cursive;
+}
+
+.heading-2 {
+  font-family: monospace;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 20%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 20%
+}
+
+.mountain {
+  position: absolute;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.profile {
+  width: 30%;
+  margin: auto;
+}
+
+.profilepic {
+  clip-path: circle();
+  margin-top: 3rem;
+}
+
+.description {
+  font-family: 'Lora', serif;
+  line-height: 2;
+  margin-bottom: 33px;
+}
+
+.hr-dots {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  width: 8%;
+  color: #EAF6F6;
+}
+
+.coding-pic {
+  width: 25%;
+  border-radius: 40%;
+  margin-right: 2rem;
+  float: left;
+}
+
+.coding-pic-rechts {
+  width: 25%;
+  border-radius: 40%;
+  margin-left: 2rem;
+  float: right;
+}
+
+.skills {
+  text-align: left;
+  margin: auto;
+  width: 50%
+}
+
+.skill-row {
+  height: 15.625rem;
+}
+
+.skills-bild-links {
+  text-align: left;
+  font-family: 'Lora', serif;
+  line-height: 1.5;
+}
+
+.table-link {
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.contact-me {
+  padding-bottom: 3rem;
+}
+
+.contact-button {
+  background-color: #66BFBF;
+  width: 10%;
+  height: 3rem;
+  font-size: 1.5rem;
+  border-radius: 0.7rem;
+  color: white;
+  border-style: none;
+  text-decoration: none;
+}
+
+.btn {
+  text-decoration: none;
+  color: white;
+  font-family: 'Lora', serif;
+}
+
+.footer-link {
+  margin-right: 5rem;
+  margin-left: 5rem;
+  font-size: 2rem;
+  text-decoration: none;
+  font-family: 'Lora', serif;
+}
+
+.copyright {
+  font-family: 'Lora', serif;
+  color: white;
+  margin-bottom: 0;
+  padding-bottom: 2rem;
+}
